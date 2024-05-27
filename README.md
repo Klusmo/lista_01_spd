@@ -1,0 +1,1 @@
+Este repositorio contem os codigos produzidos para a lista de exercicios 1 de Sistemas Paralelos e Distribuidos
